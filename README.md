@@ -24,6 +24,20 @@ Each session writes a small file to `~/.claude/session-dash/sessions/<session id
 
 The usage limits come from Claude Code itself. They are also copied to `~/.claude/session-dash/limits.json`, so other local programs (a desktop wallpaper, for example) can show them.
 
+## Related
+
+Five tools that work together, all MIT:
+
+| | |
+|---|---|
+| [homedot](https://github.com/tsurutanmen/homedot) | A Dots-style personal agent on Claude Code, in a WSL2 VM on your own PC |
+| [session-bridge](https://github.com/tsurutanmen/session-bridge) | Let open Claude Code sessions talk to each other, hold meetings, and answer your voice |
+| [claude-desk](https://github.com/tsurutanmen/claude-desk) | "Hey Claude" voice listener with VOICEVOX replies, and a desktop wallpaper of your sessions |
+| [homedot-panel](https://github.com/tsurutanmen/homedot-panel) | homedot and the 5-hour limit in Claude Code's status line |
+| [session-dash](https://github.com/tsurutanmen/session-dash) | Usage limits above the prompt, and every open session in one pane |
+
+More Claude Code plugins: [tsurutanmen/claude-plugins](https://github.com/tsurutanmen/claude-plugins)
+
 ## License
 
 MIT
