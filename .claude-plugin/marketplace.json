@@ -1,0 +1,11 @@
+{
+  "name": "session-dash",
+  "owner": { "name": "tsurutanmen" },
+  "plugins": [
+    {
+      "name": "session-dash",
+      "source": "./",
+      "description": "Usage limits above the prompt, a pane with background work and the file each open Claude Code session is on"
+    }
+  ]
+}

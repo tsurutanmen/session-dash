@@ -1,0 +1,8 @@
+{
+  "name": "session-dash",
+  "version": "0.2.0",
+  "description": "Usage limits above the prompt, a pane with background work and the file each open Claude Code session is on",
+  "author": {
+    "name": "tsurutanmen"
+  }
+}
